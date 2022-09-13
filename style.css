@@ -1,0 +1,138 @@
+
+body{
+    border:solid rgb(116, 211, 92);;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    
+    
+    
+}
+div.pinf{
+    margin-top: 6rem;
+    margin-left: 6.9rem;
+    
+}
+
+hr{
+    width: 700px;
+    margin-left:  -100px;
+}
+    
+img{
+    width: 220px;
+    height: 220px;
+    border-radius: 8rem;
+    position: absolute;
+    top: 130px;
+    left: 150px;
+}
+
+main{
+    height: 50rem;
+    margin-top: 10rem ;  
+    
+
+}
+
+div.inf{
+    padding-left: 26.9rem ;   
+}
+
+div.name{
+    margin-left: 12rem;
+    color: rgb(73, 196, 42);
+}
+
+div.aniv{
+    color: rgb(73, 196, 42);
+} div.aniv1{
+    color: rgb(78, 78, 78);
+    font-size: 95%;
+}
+
+div.nac{
+    color: rgb(73, 196, 42);
+} div.nac1{
+    color: rgb(78, 78, 78);
+    font-size: 95%;
+}
+
+div.adr{
+    color: rgb(73, 196, 42);
+} div.adr1{
+    color: rgb(78, 78, 78);
+    font-size: 95%;
+}
+
+div.contc{
+    color: rgb(73, 196, 42);
+} div.contc1{
+    color: rgb(78, 78, 78);
+    font-size: 95%;
+}
+
+div.me1{
+    margin-left: 20rem;
+    margin-top: -19rem;
+} div.me2{
+    margin-left: 20rem;
+    margin-top: 3rem;
+} div.me15{
+    margin-left: 20rem;
+    margin-top: 1rem;
+    color: rgb(73, 196, 42);
+}
+
+div.em{
+    color: rgb(73, 196, 42);
+} div.em1{
+    color: rgb(78, 78, 78);
+}
+
+div.ads{
+    color: rgb(73, 196, 42);
+} div.ads1{
+    color: rgb(78, 78, 78);
+}
+
+div.adc{
+    color: rgb(73, 196, 42);
+} div.adc1{
+    color: rgb(78, 78, 78);
+}
+
+div.it{
+    color: rgb(73, 196, 42);
+} div.it1{
+    color: rgb(78, 78, 78);
+}
+
+div.dt{
+    color: rgb(73, 196, 42);
+} div.dt1{
+    color: rgb(78, 78, 78);
+}
+
+div.time1{
+    margin-left: 48rem;
+    margin-top: -14.9rem;
+    font-size: 75%;
+} div.time2{
+    margin-left: 48rem;
+    margin-top: 2.3rem;
+    font-size: 75%;
+}div.time3{
+    margin-left: 48rem;
+    margin-top: 2.4rem;
+    font-size: 75%;
+}div.time4{
+    margin-left: 48rem;
+    margin-top: 2.4rem;
+    font-size: 75%;
+}div.time5{
+    margin-left: 48rem;
+    margin-top: 2.5rem;
+    font-size: 75%;
+}
